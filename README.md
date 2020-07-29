@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there I'm iLyas 👋
 
-<!--
-**faraweilyas/faraweilyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a professional software engineer with years of experience developing software with high end technology. 👨🏾‍💻
 
-Here are some ideas to get you started:
+I am passionate about PHP and Javascript to develop web applications. 🖥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a self-starter with a proven ability to leverage multiple technologies to build interactive and innovative applications
+
+You can check out my website [faraweilyas](https://faraweilyas.com) 🔦
+
+- 🏢 Being the CTO at [techbarn](https://github.com/techbarn) helps me make a change in the workplace industry
+- 📚 I’m currently learning how to be a professional Enterprise Architect
+- 📡 I’m looking to making open source contributions
+- 📩 How to reach me: faraweilyas@gmail.com
+
+Well i love to box so my favorite drink is Punch! 🍹 🤪 🥊 
