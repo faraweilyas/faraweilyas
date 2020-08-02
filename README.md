@@ -10,7 +10,7 @@ You can check out my website @ [faraweilyas.com](https://faraweilyas.com) 🔦
 
 - 🏢 Being the CTO at [techbarn](https://github.com/techbarn) helps me make a change in the workplace industry
 - 📚 I’m currently learning how to be a professional Enterprise Architect
-- 📡 I’m looking to making open source contributions
+- 📡 I’m looking forward to making open source contributions
 - 📩 How to reach me: faraweilyas@gmail.com
 
 Well i love to box so my favorite drink is Punch! 🍹 🤪 🥊 
