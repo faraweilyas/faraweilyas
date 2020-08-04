@@ -1,6 +1,6 @@
 ### Hi there I'm iLyas 👋
 
-I'm a professional software engineer with years of experience developing software with high end technology. 👨🏾‍💻
+I'm a [10X](https://www.kateheddleston.com/blog/becoming-a-10x-developer) software engineer with years of experience developing software with high end technology. 👨🏾‍💻
 
 I am passionate about PHP and Javascript to develop web applications. 🖥
 
