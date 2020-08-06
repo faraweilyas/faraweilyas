@@ -1,6 +1,6 @@
 ### Hi there I'm iLyas 👋
 
-I'm a [10X](https://www.kateheddleston.com/blog/becoming-a-10x-developer) software engineer with years of experience developing software with high end technology. 👨🏾‍💻
+I'm a [10X](https://www.kateheddleston.com/blog/becoming-a-10x-developer) software engineer with years of experience developing software with high-end technology. 👨🏾‍💻
 
 I am passionate about PHP and Javascript to develop web applications. 🖥
 
@@ -13,4 +13,4 @@ You can check out [faraweilyas.com](https://faraweilyas.com) to know more. 🔦
 - 🏢 Being the CTO at [techbarn](https://github.com/techbarn) helps me make a change in the workplace industry.
 - 📩 How to reach me: faraweilyas@gmail.com.
 
-Well i love to box so my favorite drink is Punch! 🍹 🤪 🥊 
+Well, i love to box so my favorite drink is Punch! 🍹 🤪 🥊 
